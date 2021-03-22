@@ -6,3 +6,4 @@
 !*.md
 !*.pages
 !*/
+.ipynb_checkpoints/
