@@ -3,6 +3,8 @@
 !*.py
 !*.ipynb
 !*.pdf
+!*.pptx
+!*.pptm
 !*.md
 !*.pages
 !*/
