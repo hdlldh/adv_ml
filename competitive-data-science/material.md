@@ -8,8 +8,8 @@
 * [Keras](https://keras.io/)
 * [PyTorch](http://pytorch.org/)
 * [TensorFlow](https://www.tensorflow.org/)
-* [LibFM](https://github.com/srendle/libfm)
-* [LibFFM](https://github.com/ycjuan/libffm)
+* [LibFM](http://www.libfm.org/)
+* [LibFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/)
 * [Arbitrary order FM](https://github.com/geffy/tffm)
 
 ## Feature preprocessing
